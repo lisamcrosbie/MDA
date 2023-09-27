@@ -1,0 +1,22 @@
+Role,Candidate,Interview Start Time,Interview Outcome,Offer Made?
+Account Manager, maria@demo.com         ,9/25/2023 8:00 AM,Successful,Yes
+Account Manager, ahmed@demo.com         ,9/25/2023 9:00 AM,Unsuccessful,No
+Account Manager, emily@demo.com         ,9/26/2023 8:00 AM,Unsuccessful,No
+Account Manager, takashi@demo.com       ,9/26/2023 10:00 AM,Unsuccessful,No
+Account Manager, olumide@demo.com       ,9/26/2023 11:00 AM,Unsuccessful,No
+Account Manager, wei@demo.com           ,9/27/2023 8:00 AM,Unsuccessful,No
+Account Manager, sofia@demo.com         ,9/27/2023 9:00 AM,Unsuccessful,No
+Account Manager, carlos@demo.com        ,9/27/2023 10:00 AM,Unsuccessful,No
+Account Manager, aisha@demo.com         ,9/27/2023 11:00 AM,Unsuccessful,No
+Channel Sales Manager, maria@demo.com         ,,,
+Channel Sales Manager, emily@demo.com         ,,,
+Content Creator, emily@demo.com         ,,,
+Content Creator, priya@demo.com         ,,,
+Content Creator, james@demo.com         ,,,
+Content Creator, amelie@demo.com        ,,,
+Accounts Payable Clerk, naomi@demo.com         ,9/20/2023 8:00 AM,Successful,Yes
+Accounts Payable Clerk, dmitry@demo.com        ,9/21/2023 8:00 AM,Unsuccessful,No
+Accounts Payable Clerk, fatima@demo.com        ,9/22/2023 8:00 AM,Unsuccessful,No
+Accounts Payable Clerk, ryan@demo.com          ,9/22/2023 10:00 AM,Unsuccessful,No
+Accounts Payable Clerk, jiyeon@demo.com        ,9/22/2023 11:00 AM,Unsuccessful,No
+Accounts Payable Clerk,juan@demo.com,9/20/2023 8:00 AM,Unsuccessful,No
